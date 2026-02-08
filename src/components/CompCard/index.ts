@@ -1,0 +1,1 @@
+export { CompCard } from './CompCard';
